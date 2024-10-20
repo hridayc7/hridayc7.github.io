@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Hriday Chhabria"
-  avatar : "/assets/images/yosemite.jpg"
+  avatar : "/assets/images/yosemite.jpeg"
   bio    : "Your friendly neighborhood Tech YouTuber."
   links:
     - label: "YouTube"
