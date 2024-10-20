@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
   - title: "Teaching Experience"
+    url: /teaching-experience/
+  - title: "Publications"
     url: /teaching-experience/
   - title: "About"
     url: /about/
