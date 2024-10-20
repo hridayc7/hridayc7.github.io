@@ -63,7 +63,7 @@ author:
   bio    : "Your friendly neighborhood Tech YouTuber."
   links:
     - label: "YouTube"
-      icon: "fas fa-fw fa-youtube-play"
+      icon: "fas fa-fw fa-play"
       url: "https://youtube.com/thetechrepublic"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -113,6 +113,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-test:
-  type: liquid
-  path: /test/
