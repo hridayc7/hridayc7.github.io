@@ -3,9 +3,9 @@ main:
     url: /posts/
   - title: "Microblogging"
     url: /microblogging/
-  - title: "Teaching Experience"
-    url: /teaching-experience/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching Experience"
+    url: /teaching-experience/
   - title: "About"
     url: /about/
