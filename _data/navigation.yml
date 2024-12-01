@@ -13,4 +13,7 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Microblog"
+    url: /microblogging
     
