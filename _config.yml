@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Hriday Chhabria"
   pronouns         : "he/him"  
   bio              : "Computer Science at The University of Michigan"
@@ -70,12 +70,10 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
