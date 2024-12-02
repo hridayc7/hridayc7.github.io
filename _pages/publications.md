@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Conference Papers##
+## Conference Papers
 [**“Not There Yet”: Feasibility and Challenges of Mobile Sound Recognition to Support Deaf and Hard-of-Hearing People**](https://doi.org/10.1145/3597638.3608431)<br/>
 Jeremy Zhengqi Huang, *Hriday Chhabria*, and Dhruv Jain<br/>
 **ASSETS '23**: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility<br/>
