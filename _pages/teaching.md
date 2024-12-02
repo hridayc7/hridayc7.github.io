@@ -7,10 +7,36 @@ redirect_from:
   - /teaching
 ---
 
-At the University of Michigan, I have been fortunate enough to serve as an M-Write Fellow for Stats 250, a Peer Tutor for EECS 183, EECS 280, EECS 281 and EECS 370, and a teaching assistant for EECS 370. </br>
+I have been fortunate to contribute to the learning experiences of my peers in various roles:
 
-Serving as a Teaching Assitant has undoubtedly been the highlight of my undergraduate experience.
+### Teaching Assistant (TA)
+- **Course**: EECS 370: Introduction to Computer Organization  
+- **Terms**: Fall 2023, Winter 2024, Fall 2024  
+As a TA, my responsibilities include:  
+  - Holding regular office hours to provide personalized support to students  
+  - Teaching a weekly 2-hour lab section focused on hands-on application of course concepts  
 
+Being a TA has undoubtedly been the highlight of my undergraduate experience. I love getting to know my students personally and witnessing their growth as learners and individuals. It’s one of the most fulfilling aspects of my time at Michigan.
 
+### Peer Tutor
+- **Courses**:  
+  - EECS 183: Elementary Programming Concepts  
+  - EECS 280: Programming and Intro Data Structures  
+  - EECS 281: Data Structures and Algorithms  
+- **Terms**: Fall 2022, Winter 2023  
+As a Peer Tutor, I provided one-on-one guidance and led group study sessions to reinforce key concepts and enhance problem-solving skills.
 
+### M-Write Fellow
+- **Course**: Stats 250: Introduction to Statistics and Data Analysis  
+- **Term**: Fall 2022  
+As an M-Write Fellow, I supported students in developing their statistical writing skills through peer review and guided practice.
 
+---
+My experiences teaching have undoubtedly been the highlight of my undergraduate experience at Michigan. I love meeting new students and watching them grow not only as students but individuals is extremely fullfing
+
+---
+
+### Memories from Teaching  
+
+![Teaching Fall 2024](/../hridayc7.github.io/images/teaching.jpg)  
+*Last lab session from the Fall 2024 semester. I will miss this bunch a lot.*
