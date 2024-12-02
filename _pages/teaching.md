@@ -34,5 +34,5 @@ As a Peer Tutor, I provided one-on-one guidance and led group study sessions to 
 As an M-Write Fellow, I supported students in developing their statistical writing skills through peer review and guided practice.
 
 ---
-![Teaching Fall 2024](teaching.jpg)  
+![Teaching Fall 2024](/images/teaching.jpg)  
 *Last lab session from the Fall 2024 semester. I will miss this bunch a lot.*
