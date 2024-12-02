@@ -13,7 +13,7 @@ author_profile: true
 [**“Not There Yet”: Feasibility and Challenges of Mobile Sound Recognition to Support Deaf and Hard-of-Hearing People**](https://doi.org/10.1145/3597638.3608431)<br/>
 Jeremy Zhengqi Huang, *Hriday Chhabria*, and Dhruv Jain<br/>
 **ASSETS '23**: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility<br/>
-Association for Computing Machinery, New York, NY, USA, Article 15, 1–14.
+Association for Computing Machinery, New York, NY, USA, Article 15, 1–14.<br/>
 🏆 Best Student Paper Honorable Mention
 
 [**A Human-AI Collaborative Approach for Designing Sound Awareness Systems**](https://doi.org/10.1145/3613904.3642062)<br/>
