@@ -20,8 +20,6 @@ As a TA, my responsibilities include:
   - Holding regular office hours to provide personalized support to students  
   - Teaching a weekly 2-hour lab section focused on hands-on application of course concepts  
 
-Being a TA has undoubtedly been the highlight of my undergraduate experience. I love getting to know my students personally and witnessing their growth as learners and individuals. It’s one of the most fulfilling aspects of my time at Michigan.
-
 ### Peer Tutor
 - **Courses**:  
   - EECS 183: Elementary Programming Concepts  
