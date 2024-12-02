@@ -7,6 +7,10 @@ redirect_from:
   - /teaching
 ---
 
+---
+My experiences teaching have undoubtedly been the highlight of my undergraduate experience at Michigan. I love meeting new students and watching them grow not only as students but individuals is extremely fullfing
+---
+
 I have been fortunate to contribute to the learning experiences of my peers in various roles:
 
 ### Teaching Assistant (TA)
@@ -32,11 +36,5 @@ As a Peer Tutor, I provided one-on-one guidance and led group study sessions to 
 As an M-Write Fellow, I supported students in developing their statistical writing skills through peer review and guided practice.
 
 ---
-My experiences teaching have undoubtedly been the highlight of my undergraduate experience at Michigan. I love meeting new students and watching them grow not only as students but individuals is extremely fullfing
-
----
-
-### Memories from Teaching  
-
-![Teaching Fall 2024](/../hridayc7.github.io/images/teaching.jpg)  
+![Teaching Fall 2024](teaching.jpg)  
 *Last lab session from the Fall 2024 semester. I will miss this bunch a lot.*
