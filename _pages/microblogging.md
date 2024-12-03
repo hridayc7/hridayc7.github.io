@@ -4,6 +4,13 @@ permalink: /microblogging/
 author_profile: true
 ---
 
+**November 24, 2024:** Landed in SF to spend Thanksgiving with Bhaiya. Ran into Golden State Warriors Head Coach STEVE KERR!!
+![Steve Kerr in SF!](/images/steve_kerr.jpeg)  
+
+**November 22, 2024:** Last ever lab (Michigan) section. Really emotional.
+
+**November 12, 2024:** Watched Klay Thompson's return to Chase Center. Curry dagger 3 night-night. I love this team.
+
 **November 6, 2024:** IM Soccer Playoffs match #1. Entering the match with a 1-1-2 record. We lost 6-3. Knocked out. Team Shin Splints forever. Also, WARRRRRRRRRRIOOOOOOOORRRRRRRRSSSSS! Warriors beat Celtics at TD garden.
 
 **November 5, 2024:** Election day in America.
