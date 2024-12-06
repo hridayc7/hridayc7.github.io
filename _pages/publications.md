@@ -20,5 +20,3 @@ Jeremy Zhengqi Huang, *Hriday Chhabria*, and Dhruv Jain<br/>
 **ASSETS '23**: Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility<br/>
 Association for Computing Machinery, New York, NY, USA, Article 15, 1–14.<br/>
 🏆 Best Student Paper Honorable Mention
-
-
