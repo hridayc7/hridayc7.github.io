@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+You can also find my most up-to-date work on my [Google Scholar](https://scholar.google.com/citations?user=kT1Wm7oAAAAJ&hl=en) profile.
 
 ## Conference Papers
 [**A Human-AI Collaborative Approach for Designing Sound Awareness Systems**](https://doi.org/10.1145/3613904.3642062)<br/>
