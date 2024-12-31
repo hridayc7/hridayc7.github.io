@@ -1,5 +1,5 @@
 ---
-title: "A Human-AI Collaborative Approach for Designing Sound Awareness Systems"
+title: "A Human-AI Collaborative Approach for Designing Sound Awareness Systems (HACS)"
 collection: publications
 # category: manuscripts
 permalink: /publication/2024-chi-human-ai-sound-awareness
@@ -11,10 +11,10 @@ citation: 'Jeremy Zhengqi Huang, Reyna Wood, Hriday Chhabria, and Dhruv Jain. (2
 ---
 
 **Abstract**  
-This paper introduces a novel Human-AI collaborative framework for designing sound awareness systems tailored for Deaf and Hard-of-Hearing users. By leveraging user feedback and AI-based optimizations, the proposed approach enhances accessibility and inclusivity in real-world environments.
+HACS is a novel sound awareness system that classifies sounds based on their characteristics (e.g., a beep) and encourages DHH users to apply contextual knowledge (e.g., location) to recognize specific sound events (e.g., a microwave). For HACS, we collaborated with American Sign Language interpreters to develop a novel sound classification taxonomy and evaluated the system using qualitative input from DHH individuals and a sound recognition model, which demonstrated HACS's promise for creating a more accurate and reliable human-AI sound awareness system.
 
 **Key Contributions**  
-- **Human-AI Collaboration:** Demonstrated how AI can support the design process in accessibility contexts.
-- **Prototyping & Evaluation:** Built and tested prototypes with real users to assess usability and effectiveness.
-- **Framework Development:** Outlined a replicable framework for integrating AI into accessibility design workflows.
+- For this project, I initially generated a similarity matrix from ASL interpreters’ sorting of different sound classes to hierarchically cluster our novel taxonomy.
+
+- I also generated Mel-Spectrograms using Python to help validate the Convolutional Neural Network (CNN) we used to ensure the algorithmic distinguishability of different sounds in our taxonomy.
 
