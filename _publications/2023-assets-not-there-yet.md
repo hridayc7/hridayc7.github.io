@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-assets-not-there-yet
 excerpt: 'This paper explores the feasibility and challenges of using mobile sound recognition technology to support Deaf and Hard-of-Hearing individuals.'
 date: 2023-10-01
-venue: 'ASSETS 2023'
+venue: 'ASSETS'
 paperurl: '/files/not-there-yet-paper.pdf'
 citation: 'Jeremy Zhengqi Huang, Hriday Chhabria, and Dhruv Jain. (2023). &quot;Not There Yet: Feasibility and Challenges of Mobile Sound Recognition to Support Deaf and Hard-of-Hearing People.&quot; <i>ASSETS 2023</i>. ACM, Article 15, 1–14. 🏆 Best Student Paper Honorable Mention.'
 ---

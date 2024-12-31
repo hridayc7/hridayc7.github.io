@@ -1,11 +1,11 @@
 ---
 title: "A Human-AI Collaborative Approach for Designing Sound Awareness Systems"
 collection: publications
-category: manuscripts
+# category: manuscripts
 permalink: /publication/2024-chi-human-ai-sound-awareness
 excerpt: 'This paper presents a Human-AI collaborative approach to designing sound awareness systems for Deaf and Hard-of-Hearing individuals.'
 date: 2024-04-01
-venue: 'CHI 2024'
+venue: 'CHI'
 paperurl: '/files/human-ai-sound-awareness-paper.pdf'
 citation: 'Jeremy Zhengqi Huang, Reyna Wood, Hriday Chhabria, and Dhruv Jain. (2024). &quot;A Human-AI Collaborative Approach for Designing Sound Awareness Systems.&quot; <i>CHI 2024</i>. ACM, Article 884, 1–11.'
 ---
