@@ -15,8 +15,8 @@ My research interests lie at the intersection of Human-Computer Interaction (HCI
 
 Outside of research, I am grateful to serve as a Teaching Assistant for [EECS 370: Introduction to Computer Organization](https://eecs370.github.io/). I love getting to meet new students and being a part of their journey through Computer Science and college in general.  
 
-
-In my spare time, I love watching and playing several different sports. I closely follow Chelsea F.C. in the English Premier League ⚽️, the Golden State Warriors in the NBA 🏀, and the Indian Cricket Team 🇮🇳🏏. I am also a Pickleball 🥒 enthusiast and have enjoyed playing Intramural Pickleball at The University of Michigan this past semester. Beyond sports, I also love talking tech! I used to make tech YouTube videos on my YouTube channel, [*The Tech Republic*](https://www.youtube.com/thetechrepublic), and still love having conversations about different emerging consumer technologies.  
+## Personal
+In my spare time, I love watching and playing several different sports. I closely follow Chelsea F.C. in the English Premier League ⚽️, the Golden State Warriors in the NBA 🏀, and the Indian Cricket Team 🇮🇳🏏. I am also a Pickleball 🥒 enthusiast and have enjoyed playing Intramural Pickleball at The University of Michigan this past semester. Beyond sports, I also love talking tech! I used to make tech YouTube videos on my YouTube channel, [*The Tech Republic*](https://www.youtube.com/thetechrepublic), and love exploring new pieces of technology.   
 
 
 
