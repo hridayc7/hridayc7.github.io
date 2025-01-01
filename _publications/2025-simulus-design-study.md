@@ -5,10 +5,12 @@ collection: publications
 permalink: /publication/2025-simulus-design-study
 excerpt: 'This paper explores the possibility of using social simulations as a safe, virtual environment to practice stress relief in everyday stressful situations.'
 date: 2025-04-01
-venue: 'arXiv preprint'
-paperurl: 'https://doi.org/10.48550/arXiv.2410.01672'
+# venue: 'arXiv preprint'
+paperurl: '/files/Simulus.pdf'
 # citation: 'TODO'
 ---
+[arXiv Preprint](https://arxiv.org/abs/2410.01672)
+[PDF]('../files/Simulus.pdf')
 
 **Abstract**  
 Stress is an inevitable part of daily life, yet many struggle to manage it without readily available support. This paper explores the potential of social simulation using VR, AR, and LLMs to provide safe, virtual environments for stress relief, highlighting key considerations such as accessibility, risks of hyper-realism, and distrust in LLM recommendations.
