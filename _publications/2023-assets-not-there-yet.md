@@ -11,7 +11,7 @@ citation: 'Jeremy Zhengqi Huang, Hriday Chhabria, and Dhruv Jain. (2023). &quot;
 ---
 
 [ACM DL](https://dl.acm.org/doi/10.1145/3597638.3608431)
-[PDF]('../files/SoundWatch.pdf')
+[PDF](/files/SoundWatch.pdf)
 
 **Abstract**  
 Sound awareness systems help DHH users recognize different sounds in their surroundings. We conducted a three-week longitudinal field study of SoundWatch, a smartwatch-based sound recognition app, with 10 deaf and hard of hearing (DHH) participants to assess its real-world feasibility. While the app increased environmental awareness and supported everyday tasks, challenges such as background noise, sound variability, and misidentification highlight the need for improved model reliability, user customization, and collective model enhancement.
