@@ -4,7 +4,7 @@ collection: publications
 # category: manuscripts
 permalink: /publication/2025-simulus-design-study
 excerpt: 'This paper explores the possibility of using social simulations as a safe, virtual environment to practice stress relief in everyday stressful situations.'
-date: 2025-04-01
+# date: 2025-04-01
 # venue: 'arXiv preprint'
 paperurl: '/files/Simulus.pdf'
 # citation: 'TODO'
