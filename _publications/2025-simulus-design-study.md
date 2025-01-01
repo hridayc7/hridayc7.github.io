@@ -4,7 +4,7 @@ collection: publications
 # category: manuscripts
 permalink: /publication/2025-simulus-design-study
 excerpt: 'TODO'
-date: TODO
+date: 2025-04-01
 # venue: 'TODO'
 paperurl: '/files/TODO.pdf'
 citation: 'TODO'
