@@ -11,7 +11,7 @@ citation: 'Jeremy Zhengqi Huang, Reyna Wood, Hriday Chhabria, and Dhruv Jain. (2
 ---
 
 [ACM DL](https://doi.org/10.1145/3613904.3642062)
-[PDF]('../files/HACS.pdf')
+[PDF](/files/HACS.pdf)
 
 **Abstract**  
 HACS is a novel sound awareness system that classifies sounds based on their characteristics (e.g., a beep) and encourages DHH users to apply contextual knowledge (e.g., location) to recognize specific sound events (e.g., a microwave). For HACS, we collaborated with American Sign Language interpreters to develop a novel sound classification taxonomy and evaluated the system using qualitative input from DHH individuals and a sound recognition model, which demonstrated HACS's promise for creating a more accurate and reliable human-AI sound awareness system.
