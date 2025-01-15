@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ---
-My experiences teaching have undoubtedly been the highlight of my undergraduate experience at Michigan. I love meeting new students and watching them grow not only as students but individuals is extremely fullfing
----
+My experiences teaching have undoubtedly been the highlight of my undergraduate experience at Michigan. I love meeting new students and watching them grow not only as students but individuals is extremely fullfing.
 
 I have been fortunate to contribute to the learning experiences of my peers in various roles. I previously served as an M-Write Fellow for Stats 250: Introduction Statistics and Data Analysis, and a peer tutor for several introductory Computer Science Courses including Elememtary Programming Concepts and Data Structures and Algorithms.
 
