@@ -13,6 +13,9 @@ main:
     
   - title: "CV"
     url: /resume/
+  
+  - title: "Portfolio"
+    url: /portfolio/
 
   # - title: "Microblog"
   #   url: /microblogging
