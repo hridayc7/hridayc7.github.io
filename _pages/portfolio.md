@@ -13,19 +13,7 @@ I'm deeply passionate about creating consumer-facing AI products. Here are a ran
 
 ### Simulus – XR + LLM based Social Simulations for Self-Care
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. Haiyi, Anna, and Alekhya were so lovely to work with and made this summer the undoubtedly best summer of my 21 years. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. This also marked my first time developing in XR.
-
-#### Key Features
-* **LLM-Based Avatars**: We enabled GPT-4o-based avatars in our system, creating personas with different identities and conversational styles.
-* **Contextual Memory**: Our system builds on previous conversations to enhance realism and immersion over time.
-* **Speech-to-Text Integration**: To allow users to directly interact with avatars using just their voice, we integrated OpenAI's Whisper API.
-
-
-### SoundWatch - Deep Learning based Sound Awareness System for iPhone and Apple Watch
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="{{ '/files/demos/Simulus_Demo.gif' | relative_url }}" alt="Simulus Demo" width="560" height="315">
 
 Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. Haiyi, Anna, and Alekhya were so lovely to work with and made this summer the undoubtedly best summer of my 21 years. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. This also marked my first time developing in XR.
 
@@ -36,11 +24,26 @@ Simulus was a project built as part of my time doing research with Professor Hai
 
 ---
 
+### SoundWatch - Deep Learning based Sound Awareness System for iPhone and Apple Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aanpbJIDB4g?si=8h4zeGKxkCLtDl5v" frameborder="0" allowfullscreen></iframe>
+
+SoundWatch is a deep learning-based sound awareness system for Deaf and Hard of Hearing users, designed to run on iPhone and Apple Watch. It alerts users to important environmental sounds like alarms, sirens, or doorbells through haptic and visual cues.
+
+#### Key Features
+* **Real-Time Sound Detection**: Uses CoreML and a custom sound classification model to detect sound events locally on-device.
+* **Seamless Watch Integration**: Logs and notifies users via the Apple Watch with a companion iOS app.
+* **Event Logging System**: Built a full-stack backend + dashboard to view logs and analyze usage patterns across time.
+
+**Tech Stack**: Swift, CoreML, FastAPI, React, PostgreSQL
+
+---
+
 ## 🚀 Personal Projects
 
 ### EverArc – A Simple Habit Tracker for iOS (Personal Project)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6vDa7zFkcOc" frameborder="0" allowfullscreen></iframe>
 
 Over the years, I have tried many different Habit Tracker apps, but I was never able to consistently log habits over a long period of time. I wanted to use a simple, yet effective app that reduced setup friction while also delivering visually crafty ways of showing me my progress. This led to the development of EverArc! Try out the beta version for free on TestFlight!
 
@@ -55,7 +58,7 @@ Over the years, I have tried many different Habit Tracker apps, but I was never 
 
 ### Words of Wisdom – An AR-Based Cognitive Defusion App
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lc0h_Mie0o0" frameborder="0" allowfullscreen></iframe>
 
 Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augmented Reality experience inspired by Cognitive Defusion, helping users visualize thoughts as separate from themselves and let them go—both physically and emotionally—through mindful breathing.
 
@@ -66,22 +69,17 @@ Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augm
 
 **Tech Stack**: Claude 3 Opus, FAISS Vector Indices, Sentence Transformers, Flask, React, Hugging Face Embeddings, Langchain, PyTorch
 
-
 ---
 
-# OpenTitan RAG – An AI-Powered Document Assistant
+### OpenTitan RAG – An AI-Powered Document Assistant
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MeZdiM05C2s" frameborder="0" allowfullscreen></iframe>
 
 Navigating complex technical documentation can be challenging. *OpenTitan RAG* is a specialized Retrieval-Augmented Generation system that helps users efficiently find and understand information about the OpenTitan project by combining powerful document retrieval with AI-driven natural language responses.
 
-## Key Features
-
+#### Key Features
 * **Intelligent RAG System**: Utilizes FAISS indices for efficient semantic search across document embeddings, enabling users to ask natural language questions and receive precise information without manual keyword searching.
-
 * **Conversation Memory & Context**: Maintains chat history to handle follow-up questions and provide consistent responses throughout extended interactions, creating a coherent experience across complex technical topics.
-
 * **User-Friendly Interface**: Clean, responsive design with dark/light mode, chat management features, and markdown rendering for easy consumption of technical content with source attribution.
 
 **Tech Stack**: Claude 3 Opus, FAISS Vector Indices, Sentence Transformers, Flask, React, Hugging Face Embeddings, Langchain, PyTorch
-
