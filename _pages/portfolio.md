@@ -39,16 +39,17 @@ Over the years, I have tried many different Habit Tracker apps, but I was never 
 
 ---
 
-### [Project 3 Name]
+### Words of Wisdom – An AR-Based Cognitive Defusion App
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_3" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_WISDOM" frameborder="0" allowfullscreen></iframe>
 
-Description of your third project. Talk about the inspiration, technologies used, and your personal contributions.
+Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augmented Reality experience inspired by Cognitive Defusion, helping users visualize thoughts as separate from themselves and let them go—both physically and emotionally—through mindful breathing.
 
 #### Key Features
-* **[Feature 1 Title]**: Brief explanation of what this feature does and why it’s useful.
-* **[Feature 2 Title]**: Brief explanation of the second feature.
-* **[Feature 3 Title]**: Brief explanation of the third feature.
+* **Thoughts in AR**: Visualize your thought as a floating 3D object, paired with a drifting cloud to symbolize letting go.
+* **Breath-Powered Interaction**: Move the cloud by exhaling into the mic, with sound classification ensuring only real breathing triggers motion.
+* **Guided Reflection & Logs**: Reframe thoughts with affirmations, categorize them, and track progress using a self-reflection log.
+
 
 ---
 
