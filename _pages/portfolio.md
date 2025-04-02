@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Just some fun stuff I have been cooking up over the years. All in one place :
+I'm deeply passionate about creating consumer-facing AI products. Here are a range of research and personal projects I have worked on over the past few years!
 
 ---
 
