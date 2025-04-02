@@ -13,7 +13,7 @@ Just some fun stuff I have been cooking up over the years. All in one place :
 
 ### Simulus – XR + LLM based Social Simulations for Self-Care
 
-<iframe width="50%" height="100" src="https://www.youtube.com/watch?v=QB81B6wHSTk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. Haiyi, Anna, and Alekhya were so lovely to work with and made this summer the undoubtedly best summer of my 21 years. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. This also marked my first time developing in XR.
 
@@ -25,7 +25,7 @@ Simulus was a project built as part of my time doing research with Professor Hai
 
 ### SoundWatch - Deep Learning based Sound Awareness System for iPhone and Apple Watch
 
-<iframe width="50%" height="50" src="https://www.youtube.com/watch?v=QB81B6wHSTk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. Haiyi, Anna, and Alekhya were so lovely to work with and made this summer the undoubtedly best summer of my 21 years. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. This also marked my first time developing in XR.
 
@@ -40,7 +40,7 @@ Simulus was a project built as part of my time doing research with Professor Hai
 
 ### EverArc – A Simple Habit Tracker for iOS (Personal Project)
 
-<iframe width="50%" height="50" src="https://www.youtube.com/watch?v=QB81B6wHSTk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Over the years, I have tried many different Habit Tracker apps, but I was never able to consistently log habits over a long period of time. I wanted to use a simple, yet effective app that reduced setup friction while also delivering visually crafty ways of showing me my progress. This led to the development of EverArc! Try out the beta version for free on TestFlight!
 
@@ -55,7 +55,7 @@ Over the years, I have tried many different Habit Tracker apps, but I was never 
 
 ### Words of Wisdom – An AR-Based Cognitive Defusion App
 
-<iframe width="50%" height="50" src="https://www.youtube.com/watch?v=QB81B6wHSTk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augmented Reality experience inspired by Cognitive Defusion, helping users visualize thoughts as separate from themselves and let them go—both physically and emotionally—through mindful breathing.
 
@@ -71,7 +71,7 @@ Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augm
 
 # OpenTitan RAG – An AI-Powered Document Assistant
 
-<iframe width="50%" height="50" src="https://www.youtube.com/watch?v=QB81B6wHSTk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QB81B6wHSTk?si=tIunVHZDJeao3-Hh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Navigating complex technical documentation can be challenging. *OpenTitan RAG* is a specialized Retrieval-Augmented Generation system that helps users efficiently find and understand information about the OpenTitan project by combining powerful document retrieval with AI-driven natural language responses.
 
