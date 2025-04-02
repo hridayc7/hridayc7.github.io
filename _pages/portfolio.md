@@ -53,13 +53,19 @@ Negative thoughts can impact our mood and behavior. *Words of Wisdom* is an Augm
 
 ---
 
-### [Project 4 Name]
+# OpenTitan RAG – An AI-Powered Document Assistant
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/VIDEO_ID_OPENTITAN" frameborder="0" allowfullscreen></iframe>
 
-Description of your fourth project. Talk about how you built it, any interesting challenges, and what it achieves.
+Navigating complex technical documentation can be challenging. *OpenTitan RAG* is a specialized Retrieval-Augmented Generation system that helps users efficiently find and understand information about the OpenTitan project by combining powerful document retrieval with AI-driven natural language responses.
 
-#### Key Features
-* **[Feature 1 Title]**: Brief explanation of what this feature does and why it’s useful.
-* **[Feature 2 Title]**: Brief explanation of the second feature.
-* **[Feature 3 Title]**: Brief explanation of the third feature.
+## Key Features
+
+* **Intelligent RAG System**: Utilizes FAISS indices for efficient semantic search across document embeddings, enabling users to ask natural language questions and receive precise information without manual keyword searching.
+
+* **Conversation Memory & Context**: Maintains chat history to handle follow-up questions and provide consistent responses throughout extended interactions, creating a coherent experience across complex technical topics.
+
+* **User-Friendly Interface**: Clean, responsive design with dark/light mode, chat management features, and markdown rendering for easy consumption of technical content with source attribution.
+
+**Tech Stack**: Claude 3 Opus, FAISS Vector Indices, Sentence Transformers, Flask, React, Hugging Face Embeddings, Langchain, PyTorch
+
