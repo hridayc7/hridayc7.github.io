@@ -213,16 +213,30 @@ author_profile: true
     .project-card {
       flex-direction: row;
     }
+    .project-media-col {
+      border-right: 1px solid var(--pf-border);
+      border-bottom: none;
+      padding: 2rem;
+    }
+  }
+
+  @media (max-width: 899px) {
+    .project-media-col {
+      border-bottom: 1px solid var(--pf-border);
+      border-right: none;
+      padding: 1.25rem;
+    }
   }
 
   .project-media-col {
-    flex: 1;
+    flex: 1.1;
     min-width: 0;
-    background: #0b0f19;
+    background: var(--pf-tag-bg); /* Soft gray background instead of harsh black */
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    transition: background 0.3s ease;
   }
 
   .project-info-col {
@@ -250,6 +264,9 @@ author_profile: true
     max-height: 400px;
     object-fit: contain;
     display: block;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.15);
+    border: 1px solid var(--pf-border);
   }
 
   .video-container {
@@ -258,6 +275,10 @@ author_profile: true
     padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
     height: 0;
     overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.15);
+    border: 1px solid var(--pf-border);
+    background: #000;
   }
 
   .video-container iframe {
