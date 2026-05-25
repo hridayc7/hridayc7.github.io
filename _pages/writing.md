@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Writings"
-permalink: /writings/
+title: "Writing"
+permalink: /writing/
 author_profile: true
 ---
 
 <!-- Quiz Lock Screen -->
-<div id="writings-lock-screen" style="max-width: 550px; margin: 30px auto; padding: 20px; border: 1px solid #dbdbdb; border-radius: 4px;">
+<div id="writing-lock-screen" style="max-width: 550px; margin: 30px auto; padding: 20px; border: 1px solid #dbdbdb; border-radius: 4px;">
   
-  <h2 style="margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">Hriday's Writings - Verification</h2>
+  <h2 style="margin-top: 0; border-bottom: 1px solid #eee; padding-bottom: 10px;">Hriday's Writing - Verification</h2>
   <p style="font-size: 0.95rem; line-height: 1.5; margin-bottom: 20px;">
-    To unlock my personal writings, please answer these verification questions:
+    To unlock my personal writing, please answer these verification questions:
   </p>
 
   <p style="font-weight: bold; margin-bottom: 15px;">Question:</p>
@@ -80,19 +80,19 @@ author_profile: true
   </div>
 </div>
 
-<!-- Writings Content (Hidden by default) -->
-<div id="writings-content" style="display: none; border-top: 1px solid #eee; padding-top: 20px;">
+<!-- Writing Content (Hidden by default) -->
+<div id="writing-content" style="display: none; border-top: 1px solid #eee; padding-top: 20px;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
-    <h2 style="margin: 0;">Personal Writings & Reflections</h2>
-    <button onclick="lockWritings()" class="btn btn--light" style="margin: 0;">
+    <h2 style="margin: 0;">Personal Writing & Reflections</h2>
+    <button onclick="lockWriting()" class="btn btn--light" style="margin: 0;">
       Lock Page
     </button>
   </div>
 
-  <div class="writings-list">
+  <div class="writing-list">
     
     <article style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 25px;">
-      <h3 style="margin-top: 0; margin-bottom: 5px;"><a href="{{ '/writings/microblog/' | relative_url }}">Microblog</a></h3>
+      <h3 style="margin-top: 0; margin-bottom: 5px;"><a href="{{ '/writing/microblog/' | relative_url }}">Microblog</a></h3>
       <div style="font-size: 0.85rem; opacity: 0.6; margin-bottom: 15px;">Recent personal updates and reflections</div>
       <p style="line-height: 1.6; opacity: 0.85;">
         Access my personal microblog containing updates, thoughts, and reflections about my sports updates, teaching, and adventures.
@@ -106,14 +106,14 @@ author_profile: true
 <script>
   // Check local storage on load
   document.addEventListener("DOMContentLoaded", function() {
-    if (localStorage.getItem("hriday_writings_unlocked") === "true") {
+    if (localStorage.getItem("hriday_writing_unlocked") === "true") {
       showContentDirectly();
     }
   });
 
   function showContentDirectly() {
-    document.getElementById("writings-lock-screen").style.display = "none";
-    document.getElementById("writings-content").style.display = "block";
+    document.getElementById("writing-lock-screen").style.display = "none";
+    document.getElementById("writing-content").style.display = "block";
   }
 
   function handleKeydown(event, stepNum) {
@@ -161,15 +161,16 @@ author_profile: true
     return false;
   }
 
+  // Next step logic
   function nextStep(stepNum) {
     if (validateAnswer(stepNum)) {
       if (stepNum < 6) {
         document.getElementById("step-" + stepNum).style.display = "none";
         document.getElementById("step-" + (stepNum + 1)).style.display = "block";
       } else {
-        localStorage.setItem("hriday_writings_unlocked", "true");
-        document.getElementById("writings-lock-screen").style.display = "none";
-        document.getElementById("writings-content").style.display = "block";
+        localStorage.setItem("hriday_writing_unlocked", "true");
+        document.getElementById("writing-lock-screen").style.display = "none";
+        document.getElementById("writing-content").style.display = "block";
       }
     } else {
       document.getElementById("quiz-error").style.display = "block";
@@ -182,8 +183,8 @@ author_profile: true
     document.getElementById("step-" + (stepNum - 1)).style.display = "block";
   }
 
-  function lockWritings() {
-    localStorage.removeItem("hriday_writings_unlocked");
+  function lockWriting() {
+    localStorage.removeItem("hriday_writing_unlocked");
     
     // Reset inputs
     document.getElementById("ans-1").value = "";
@@ -203,7 +204,7 @@ author_profile: true
     }
     document.getElementById("step-1").style.display = "block";
     
-    document.getElementById("writings-content").style.display = "none";
-    document.getElementById("writings-lock-screen").style.display = "block";
+    document.getElementById("writing-content").style.display = "none";
+    document.getElementById("writing-lock-screen").style.display = "block";
   }
 </script>

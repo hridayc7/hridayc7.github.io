@@ -1,6 +1,6 @@
 ---
 title: "Microblog"
-permalink: /writings/microblog/
+permalink: /writing/microblog/
 author_profile: true
 ---
 
@@ -35,17 +35,17 @@ author_profile: true
 
 **October 20, 2024:** Liverpool vs Chelsea at Anfield. Chelsea lose 2-1. Good game, lots of signs of progress. Football at the top level is a game of such slim margins.
 
-<p><a href="/writings/" class="btn btn--light">← Back to Writings</a></p>
+<p><a href="/writing/" class="btn btn--light">← Back to Writing</a></p>
 </div>
 
 <div id="locked-writing-message" style="display: block; text-align: center; margin-top: 50px;">
   <p>🔒 This microblog is locked. Please complete the verification quiz first.</p>
-  <p><a href="/writings/" class="btn btn--primary">Go to Verification Page</a></p>
+  <p><a href="/writing/" class="btn btn--primary">Go to Verification Page</a></p>
 </div>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    if (localStorage.getItem("hriday_writings_unlocked") === "true") {
+    if (localStorage.getItem("hriday_writing_unlocked") === "true") {
       document.getElementById("locked-writing-content").style.display = "block";
       document.getElementById("locked-writing-message").style.display = "none";
     }
