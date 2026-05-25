@@ -209,53 +209,47 @@ author_profile: true
     box-shadow: var(--pf-shadow-hover);
   }
 
-  @media (min-width: 900px) {
-    .project-card {
-      flex-direction: row;
-    }
-    .project-media-col {
-      border-right: 1px solid var(--pf-border);
-      border-bottom: none;
-      padding: 2rem;
-    }
-  }
-
-  @media (max-width: 899px) {
-    .project-media-col {
-      border-bottom: 1px solid var(--pf-border);
-      border-right: none;
-      padding: 1.25rem;
-    }
+  .project-card {
+    background: var(--pf-bg-card);
+    border: 1px solid var(--pf-border);
+    border-radius: 16px;
+    box-shadow: var(--pf-shadow);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column; /* Vertical stacked layout for all screens */
+    transition: all 0.3s ease;
+    scroll-margin-top: 80px; /* Offset for sticky navigation bar */
   }
 
   .project-media-col {
-    flex: 1.1;
-    min-width: 0;
+    width: 100%;
     background: var(--pf-tag-bg); /* Soft gray background instead of harsh black */
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    padding: 2.25rem 2.25rem 1.75rem 2.25rem;
+    border-bottom: 1px solid var(--pf-border);
     transition: background 0.3s ease;
   }
 
   .project-info-col {
-    flex: 1.2;
-    padding: 2rem;
+    width: 100%;
+    padding: 2.25rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
   }
 
   /* Responsive Media Styling */
   .media-wrapper {
+    max-width: 720px; /* Perfect visual balance on desktop, scales naturally on mobile */
     width: 100%;
-    height: 100%;
     position: relative;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 auto;
   }
 
   .media-gif {
