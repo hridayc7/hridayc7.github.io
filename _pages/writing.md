@@ -91,11 +91,21 @@ author_profile: true
 
   <div class="writing-list">
     
+    <!-- Microblog -->
     <article style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 25px;">
       <h3 style="margin-top: 0; margin-bottom: 5px;"><a href="{{ '/writing/microblog/' | relative_url }}">Microblog</a></h3>
       <div style="font-size: 0.85rem; opacity: 0.6; margin-bottom: 15px;">Recent personal updates and reflections</div>
       <p style="line-height: 1.6; opacity: 0.85;">
         Access my personal microblog containing updates, thoughts, and reflections about my sports updates, teaching, and adventures.
+      </p>
+    </article>
+
+    <!-- Ideas I Want to Explore -->
+    <article style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 25px;">
+      <h3 style="margin-top: 0; margin-bottom: 5px;"><a href="{{ '/writing/ideas/' | relative_url }}">Ideas I Want to Explore</a></h3>
+      <div style="font-size: 0.85rem; opacity: 0.6; margin-bottom: 15px;">Brainstorming, side-projects, and future tech research</div>
+      <p style="line-height: 1.6; opacity: 0.85;">
+        A locked repository of experimental concepts, multi-agent frameworks, accessibility tech, and local AI sandbox ideas.
       </p>
     </article>
 
