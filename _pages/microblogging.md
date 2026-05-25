@@ -1,8 +1,10 @@
 ---
 title: "Microblog"
-permalink: /microblogging/
+permalink: /writings/microblog/
 author_profile: true
 ---
+
+<div id="locked-writing-content" style="display: none;">
 
 **November 24, 2024:** Landed in SF to spend Thanksgiving with Bhaiya. Ran into Golden State Warriors Head Coach STEVE KERR!!
 ![Steve Kerr in SF!](/images/steve_kerr.jpeg)  
@@ -33,4 +35,19 @@ author_profile: true
 
 **October 20, 2024:** Liverpool vs Chelsea at Anfield. Chelsea lose 2-1. Good game, lots of signs of progress. Football at the top level is a game of such slim margins.
 
+<p><a href="/writings/" class="btn btn--light">← Back to Writings</a></p>
+</div>
 
+<div id="locked-writing-message" style="display: block; text-align: center; margin-top: 50px;">
+  <p>🔒 This microblog is locked. Please complete the verification quiz first.</p>
+  <p><a href="/writings/" class="btn btn--primary">Go to Verification Page</a></p>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    if (localStorage.getItem("hriday_writings_unlocked") === "true") {
+      document.getElementById("locked-writing-content").style.display = "block";
+      document.getElementById("locked-writing-message").style.display = "none";
+    }
+  });
+</script>

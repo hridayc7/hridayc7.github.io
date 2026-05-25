@@ -7,60 +7,49 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://hridayc7.github.io/files/resume.pdf" width="600" height="700" type='application/pdf'>
-
-<!-- {% include base_path %}
+<a href="https://hridayc7.github.io/files/resume.pdf" class="btn btn--primary" target="_blank" style="margin-bottom: 25px; display: inline-flex; align-items: center; gap: 8px;">
+  📄 Download CV / Resume (PDF)
+</a>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.S. in Computer Science**  
+  *University of Michigan, Ann Arbor* | Sep 2021 – May 2025
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Software Engineer**  
+  *Google* | Sunnyvale, CA | Jun 2026 – Present
+  * Engineer on the Google AI Edge Gallery application, bringing state-of-the-art agentic workflows and on-device machine learning models directly to user devices.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Undergraduate Researcher**  
+  *University of Michigan & Carnegie Mellon University* | May 2023 – Apr 2025
+  * Conducted HCI and AI accessibility research advised by [Professor Dhruv "DJ" Jain](https://web.eecs.umich.edu/~profdj/) (UMich) and collaborated with [Professor Haiyi Zhu](https://haiyizhu.com/) and [Anna Fang](https://annamfang.com) (CMU).
+  * Designed, developed, and evaluated human-AI systems for stress relief (Simulus, Meta Quest 3, Unity) and sound awareness systems for Deaf and Hard of Hearing individuals.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Instructional / Teaching Assistant**  
+  *University of Michigan (EECS Department)* | Sep 2023 – Dec 2024
+  * Served as a Teaching Assistant for **EECS 370: Introduction to Computer Organization** for three semesters. Lead weekly lab sessions, held office hours, and assisted in grading/exam creation.
+
+* **M-Write Fellow & CS Peer Tutor**  
+  *University of Michigan* | Jan 2023 – Apr 2024
+  * Mentored peers in Stats 250 (Introduction to Statistics and Data Analysis) and tutored students in introductory Computer Science, including Elementary Programming Concepts and Data Structures & Algorithms.
+
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 🏆 **Finalist**, Computing Research Association (CRA) Outstanding Undergraduate Researcher Awards, 2024-2025
+* 🏆 **Honorable Mention**, ACM CHI Conference on Human Factors in Computing Systems (CHI 2025)
+* 🏆 **Best Student Paper Honorable Mention**, ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2023)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+

@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /resume/
-  
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Archives"
+    url: /archives/
+
+  - title: "Vibe Coding"
+    url: /vibe-coding/
+
+  - title: "Writings"
+    url: /writings/
 
   # - title: "Microblog"
   #   url: /microblogging

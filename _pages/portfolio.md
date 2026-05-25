@@ -11,11 +11,11 @@ I'm deeply passionate about creating consumer-facing AI products. Here are a ran
 
 ## 🧪 Research Projects
 
-### Simulus – XR + LLM based Social Simulations for Self-Care
+### Simulus – XR + LLM based Social Simulations for Self-Care (🏆 CHI 2025 Honorable Mention)
 
 <img src="{{ '/files/demos/Simulus_Demo.gif' | relative_url }}" alt="Simulus Demo" width="560" height="315">
 
-Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. Haiyi, Anna, and Alekhya were so lovely to work with and made this summer the undoubtedly best summer of my 21 years. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. This also marked my first time developing in XR.
+Simulus was a project built as part of my time doing research with Professor Haiyi Zhu, Anna Fang, and Alekhya Maram at Carnegie Mellon University. We built Simulus as a way for users to practice stress relief in AR/VR using the Meta Quest 3, allowing them to navigate stressful situations by conversing with ChatGPT-based virtual avatars. Our paper describing this work received an **Honorable Mention at CHI 2025**!
 
 **Key Features**
 * **LLM-Based Avatars**: We enabled GPT-4o-based avatars in our system, creating personas with different identities and conversational styles.

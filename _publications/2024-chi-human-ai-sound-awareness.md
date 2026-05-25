@@ -1,7 +1,7 @@
 ---
 title: "A Human-AI Collaborative Approach for Designing Sound Awareness Systems (HACS)"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/2024-chi-human-ai-sound-awareness
 excerpt: 'This paper presents a Human-AI collaborative approach to designing sound awareness systems for Deaf and Hard-of-Hearing individuals.'
 date: 2024-04-01

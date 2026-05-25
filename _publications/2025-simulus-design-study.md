@@ -1,13 +1,13 @@
 ---
 title: "Practicing Stress Relief for the Everyday: Designing Social Simulation Using VR, AR, and LLMs"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/2025-simulus-design-study
-excerpt: 'This paper explores the possibility of using social simulations as a safe, virtual environment to practice stress relief in everyday stressful situations.'
-# date: 2025-04-01
-# venue: 'arXiv preprint'
+excerpt: 'This paper explores the possibility of using social simulations as a safe, virtual environment to practice stress relief in everyday stressful situations. 🏆 CHI 2025 Honorable Mention.'
+date: 2025-05-01
+venue: 'CHI'
 paperurl: '/files/Simulus.pdf'
-# citation: 'TODO'
+citation: 'Anna Fang, Hriday Chhabria, Alekhya Maram, and Haiyi Zhu. (2025). &quot;Practicing Stress Relief for the Everyday: Designing Social Simulation Using VR, AR, and LLMs.&quot; <i>CHI 2025</i>. ACM. 🏆 Honorable Mention.'
 ---
 [arXiv Preprint](https://arxiv.org/abs/2410.01672)
 [PDF](/files/Simulus.pdf)

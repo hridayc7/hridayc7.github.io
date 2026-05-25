@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Hriday Chhabria"
 title_separator          : "-"
 name                     : &name "Hriday Chhabria"
-description              : &description "Computer Science at The University of Michigan"
+description              : &description "Software Engineer at Google"
 url                      : https://hridayc7.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hridayc7/hridayc7.github.io"
@@ -24,14 +24,15 @@ author:
   avatar           : "headshot.png"
   name             : "Hriday Chhabria"
   pronouns         : "he/him"  
-  bio              : "Computer Science at The University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "Software Engineer at Google"
+  location         : "San Francisco, CA"
+  employer         : "Google"
   uri              : # URL
-  email            : "hridayc@umich.edu" 
+  email            : # "hridayc@umich.edu" 
 
   # Sidebar Links
   github           : "hridayc7"
-  googlescholar    : "https://scholar.google.com/citations?user=kT1Wm7oAAAAJ&hl=en"
+  googlescholar    : # "https://scholar.google.com/citations?user=kT1Wm7oAAAAJ&hl=en"
   twitter          : "HridayChhabria"
   youtube          : "thetechrepublic"
   sshkey           : "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH3IV5hOj1crFkiJts4bvOupyNm9yMb4bmNlBYu+YGG1 hridayc@umich.edu"
@@ -63,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "hridaychhabria"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
