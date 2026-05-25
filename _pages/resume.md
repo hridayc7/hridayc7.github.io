@@ -19,7 +19,7 @@ Education
 Work Experience
 ======
 * **Software Engineer**  
-  *Google* | Sunnyvale, CA | Jun 2026 – Present
+  *Google* | Sunnyvale, CA | Jun 2025 – Present
   * Engineer on the Google AI Edge Gallery application, bringing state-of-the-art agentic workflows and on-device machine learning models directly to user devices.
 
 * **Undergraduate Researcher**  
